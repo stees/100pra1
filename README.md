@@ -13,3 +13,4 @@
 ## Método
  - A partir dos dados do Censo 2010 agregados por setor censitário, calculei a densidade populacional para cada setor em hab/ha (habitantes por hectare)
  - Além disso, para o caso das nuvens de pontos da ocupação urbana, gerei um ponto a cada 100 pessoas em cada setor (random points in polygon no QGIS) e selecionei a visualização heatmap com raio de 5
+ - Geração de MBTiles usando função do QGIS, e uso [deste plugin](https://gitlab.com/IvanSanchez/Leaflet.TileLayer.MBTiles) para visualizar os mapas temáticos num mapa web com fundo do OpenStreetMap

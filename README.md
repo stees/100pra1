@@ -7,7 +7,8 @@
  - Ocupação rural: gradação de cores das densidades no campo (abaixo de 1 hab/ha)
  
 ## Por que
- - 
+ - Entender os diferentes tipos de ocupação dentro da cidade - por exemplo, alta densidade de favela e alta densidade de prédios, em contraste com bairros horizontais com lote maior ou menor -
+ - Entender os diferentes tipos de ocupação no campo - é possível inferir tamanho de propriedade a partir das diferentes densidades populacionais no campo?
  
 ## Método
  - A partir dos dados do Censo 2010 agregados por setor censitário, calculei a densidade populacional para cada setor em hab/ha (habitantes por hectare)
